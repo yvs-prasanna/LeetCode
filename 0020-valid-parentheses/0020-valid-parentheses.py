@@ -1,19 +1,19 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        openings = ['(', "[", "{"]
-        closings = [")", "]", "}"]
+        m = {"(" : ")", "{" : "}", "[" :"]"}
         stack = []
-        for i in range(len(s)):
-            if(s[i] in openings):
-                stack.append(s[i])
+        for i in s:
+            if i in m:
+                stack.append(i)
             elif(len(stack) == 0):
                 return False
-            elif(openings.index(stack[-1]) == closings.index(s[i])):
+            elif(m[stack[-1]] == i):
                 stack = stack[:-1]
             else:
                 return False
         if(len(stack) == 0):
             return True
         return False
+
         
         
