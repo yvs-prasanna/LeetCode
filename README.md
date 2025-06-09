@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yvs-prasanna/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0075-sort-colors](https://github.com/yvs-prasanna/LeetCode/tree/master/0075-sort-colors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yvs-prasanna/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0075-sort-colors](https://github.com/yvs-prasanna/LeetCode/tree/master/0075-sort-colors) |
 ## Binary Search
 |  |
 | ------- |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yvs-prasanna/LeetCode/tree/master/0020-valid-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/yvs-prasanna/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
