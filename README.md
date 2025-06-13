@@ -41,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yvs-prasanna/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/yvs-prasanna/LeetCode/tree/master/0011-container-with-most-water) |
+| [0074-search-a-2d-matrix](https://github.com/yvs-prasanna/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/yvs-prasanna/LeetCode/tree/master/0075-sort-colors) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yvs-prasanna/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/yvs-prasanna/LeetCode/tree/master/0074-search-a-2d-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/yvs-prasanna/LeetCode/tree/master/0029-divide-two-integers) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/yvs-prasanna/LeetCode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
