@@ -43,11 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/yvs-prasanna/LeetCode/tree/master/0011-container-with-most-water) |
 | [0074-search-a-2d-matrix](https://github.com/yvs-prasanna/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/yvs-prasanna/LeetCode/tree/master/0075-sort-colors) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/yvs-prasanna/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yvs-prasanna/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/yvs-prasanna/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/yvs-prasanna/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Divide and Conquer
 |  |
 | ------- |
