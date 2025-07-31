@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/yvs-prasanna/LeetCode/tree/master/0198-house-robber) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/yvs-prasanna/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/yvs-prasanna/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [2047-find-a-peak-element-ii](https://github.com/yvs-prasanna/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/yvs-prasanna/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/yvs-prasanna/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/yvs-prasanna/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [2047-find-a-peak-element-ii](https://github.com/yvs-prasanna/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -82,4 +84,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/yvs-prasanna/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [2047-find-a-peak-element-ii](https://github.com/yvs-prasanna/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 <!---LeetCode Topics End-->
